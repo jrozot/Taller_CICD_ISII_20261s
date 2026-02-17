@@ -4,7 +4,7 @@ Se ha desarrollado el taller de acuerdo al enunciado en /docs/taller_cicd.pdf
 
 ## Capturas de pantalla:
 - **Pipeline funcional:**
-
+![x](/docs/img/pipeline.png)
 - **Pruebas en Github Actions:**
 
 - **Despliegue en Github Pages:**
