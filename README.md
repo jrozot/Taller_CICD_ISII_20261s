@@ -6,8 +6,9 @@ Se ha desarrollado el taller de acuerdo al enunciado en /docs/taller_cicd.pdf
 - **Pipeline funcional:**
 ![x](/docs/img/pipeline.png)
 - **Pruebas en Github Actions:**
-
+![x](/docs/img/actions.png)
 - **Despliegue en Github Pages:**
+![x](/docs/img/ghpages.png)
 
 
 ## Solución del ejercicio endpoint GET:
@@ -26,3 +27,4 @@ test('GET /version should return version 1.0.0', async () => {
 });
 ```
 - **Captura de pantalla:**
+![x](/docs/img/GETpng.png)
